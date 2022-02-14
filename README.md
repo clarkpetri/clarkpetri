@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clarkpetri
+- 👋 Hi, I’m @clarkpetri. Career military officer, PhD student, jiu jitsu competitor, big nerd
 - 👀 I’m interested in agent-based models, optimization, video games
 - 🌱 I’m currently learning ABM
 - 💞️ I’m looking to collaborate on ... anything?
