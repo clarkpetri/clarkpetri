@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clarkpetri. Career military officer, PhD student, jiu jitsu competitor, big nerd
 - 👀 I’m interested in agent-based models, optimization, video games
-- 🌱 I’m currently learning ABM
+- 🌱 I’m currently working influence modeling and graph theory
 - 💞️ I’m looking to collaborate on ... anything?
 - 📫 How to reach me ... @clarkpetri on Twitter
 
